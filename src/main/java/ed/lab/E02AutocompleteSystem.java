@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
-
+//https://leetcode.com/problems/design-search-autocomplete-system/
 public class E02AutocompleteSystem {
     HashMap<String, Integer>[]map;
     String current = "";
